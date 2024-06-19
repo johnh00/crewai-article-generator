@@ -1,1 +1,1 @@
-# CrewAI-Article-Generator
+# crewai-article-generator
